@@ -43,15 +43,22 @@ interpolated at the location of 460 observed profiles [https://meom-group.github
 
 - https://storage.googleapis.com/pirate_data/ENS/y2014m06/ORCA025.L75-OCCITENS.y2014m06_EDWregion.nc (1.96 Gb)
 
-### Global 0.5x0.5 monthly mean ocean analysis, ISAS15
-The observed 3D ocean stated for the 2002-2015 period [http://doi.org/10.17882/52367].
+### Global 0.5x0.5 ocean analysis ISAS15
+The observed 3D ocean state, monthly means for the 2002-2015 period [http://doi.org/10.17882/52367].
 
 - http://www.seanoe.org/data/00412/52367/data/53158.tar.gz (~25Gb)
 
-### North Atlantic 0.5x0.5 daily mean NCEP fluxes re-analysis
-Contains air-sea heat fluxes from the atmospheric re-analysis.
+### Kuroshio region ISAS15 surface fields
+Local extraction of the Sea Surface Temperature (SST) and Sea Surface Salinity (SSS) from the ocean analysis ISAS15 [http://doi.org/10.17882/52367].
+
+- https://storage.googleapis.com/sonific01/ISAS15/ISAS15_SST_Kuroshio.nc (~5Mb)
+- https://storage.googleapis.com/sonific01/ISAS15/ISAS15_SSS_Kuroshio.nc (~5Mb)
+
+### North Atlantic 2.5x2.5 NCEP re-analysis
+Contains air-sea heat fluxes and sea level pressure from the atmospheric re-analysis:
 
 - https://storage.googleapis.com/sonific01/NCEP/ncep_flux_1979to2017_2017-10-01.nc (~1.15Gb)
+- https://storage.googleapis.com/sonific01/NCEP/ncep_msl_1948to2017.nc (~970Mb)
 
 ### Global Argo data quality control flags
 A training set containing labelled data from Argo quality control procedure [http://www.argo.ucsd.edu/ADMT18_MachineLearning.pdf].
