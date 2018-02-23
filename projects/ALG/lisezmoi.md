@@ -1,4 +1,4 @@
-**TEST TITRE**
+***TEST TITRE***
 
-*BUT du projet :*
-***Chercher des meddies (ou quelque chose d'autre)***
+**BUT du projet :**\s\s
+*Chercher des meddies (ou quelque chose d'autre)*
