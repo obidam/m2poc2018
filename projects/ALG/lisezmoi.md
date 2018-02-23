@@ -7,5 +7,7 @@
 -focus sur un region proche de la sortie de la mediterranee et
 clusteriser en deux selon deux directions qui correspondent 
 a deux profondeurs : 200m et 1200m  
+-reperer un cluster qui peut s'apparenter a un classe "meddy"  
 
-
+**Conclusion**
+Nous avons reperé
