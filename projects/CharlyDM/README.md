@@ -1,4 +1,4 @@
-#Etude du caractère géostrophique de données CROCO
+# Etude du caractère géostrophique de données CROCO
 
 A partir de la relation du vent thermique et de la géostrophie, si on suppose une equation d'état linéaire, on peut obtenir l'équation 
 ${\rm \partial_y  \Big( \beta_T \int_{zref}^z dz T\Big)=  \partial_y \eta }$
