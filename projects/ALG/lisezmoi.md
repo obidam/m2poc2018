@@ -14,9 +14,9 @@ complet
 -puis apprentissage avec le grand dataset pour comparer
 
 **Discussion**  
-Ici la méthode du BIC n'est pas bonne, car il faudrait considérer  
+-Ici la méthode du BIC n'est pas bonne, car il faudrait considérer  
 seulement des profiles indépendant.  
-Les pdf 2D semblent montrer 3 pics dominant, donc interressant  
+-Les pdf 2D semblent montrer 3 pics dominant, donc interressant  
 regarder les clustering avec 4 classe, afin de classer les points  
 localiser entre les 3 pics dominants.
 
@@ -28,8 +28,13 @@ Non car moins grand spreading dans la zone de recherche
   
 -Nous avons regardé en-dessous de 800m les profiles qui
 dépassent MEAN+STD en salinité  
+  
+-La méthode semble cohérente dépendemment du dataset d'apprentissage  
+-Avec le résultat final, des meddies semblent s'en aller vers l'ouest  
+et changer de classe sur la route (robustness diminue)  
+
 
 **Ouverture**  
-Plutôt que de regarder les profiles qui dépassent une certaine  
+-Plutôt que de regarder les profiles qui dépassent une certaine  
 valeur, il faudrait regarder par exemple les dérivées en  
 salinité de ces profiles, afin de repérer des patterns particuliers.
