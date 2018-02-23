@@ -1,4 +1,4 @@
 ***TEST TITRE***
 
-**BUT du projet :**\s\s
+**BUT du projet :**  
 *Chercher des meddies (ou quelque chose d'autre)*
