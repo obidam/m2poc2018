@@ -27,7 +27,7 @@ A collection of 500,000 Temp/Sal/Sig0/N2 profiles interpolated on 302 standard d
 - https://storage.cloud.google.com/sonific01/ARGO/GLOB_HOMOGENEOUS_variables_3subset_3.nc (~1.84Gb)
 
 ### North Atlantic Argo data
-A collection of 100,000 Temp/Sal/Sig0/N2 profiles interpolated on 282 standard depth levels.
+A collection of 100,000 Temp/Sal/Sig0/N2 profiles interpolate d on 282 standard depth levels.
 
 - https://storage.googleapis.com/sonific01/ARGO/NATL_HOMOGENEOUS_variables_7subset_1.nc (~30MB)
 - https://storage.googleapis.com/sonific01/ARGO/NATL_HOMOGENEOUS_variables_7subset_2.nc (~30MB)
